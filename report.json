@@ -1,0 +1,95 @@
+{
+  "empresa": "BLASI Clínica Dental Barcelona",
+  "web": "https://clinicablasi.com",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T10:15:42.999Z",
+  "templateVersion": "v6.1-fixed",
+  "aiModel": "catalog-deterministic",
+  "aiCost": "$0.00",
+  "cssPersonalized": true,
+  "cssApproach": "catalog-deterministic",
+  "cssSelectorsUsed": {
+    "sections": ".elementor-section,.elementor-top-section,.e-con:not(.e-con-inner),[data-element_type=\"container\"],[data-element_type=\"section\"]",
+    "cards": ".elementor-widget-icon-box,.elementor-widget-image-box,.elementor-icon-box,[class*=\"elementor-repeater-item\"]",
+    "buttons": ".elementor-button,.elementor-button-wrapper a,.elementor-widget-button a",
+    "nav": ".elementor-location-header,.e-con[data-settings*=\"sticky\"],header.elementor-element"
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "eicons}.elementor-custom-embed-play.elementor-playing i:before{content:",
+      "inherit",
+      "eicons",
+      "var( --e-global-typography-text-font-family )",
+      "Plus Jakarta Sans"
+    ],
+    "colors": [
+      "#fff",
+      "rgba(0,0,0,.3)",
+      "#69727d",
+      "#1f2124",
+      "rgba(0,0,0,.1)"
+    ],
+    "hasStickyHeader": false,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 24,
+    "formCount": 1
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://clinicablasi.com)",
+    "CSS catálogo v6.1 — selectores elementor (determinista)",
+    "Banner demo + barra de progreso",
+    "8 imgs lazy loading",
+    "Bunny Fonts (GDPR)"
+  ],
+  "wowEffects": [
+    "E1 — Scroll reveal secciones",
+    "E1f — Fallback IntersectionObserver",
+    "E2 — Stagger reveal tarjetas",
+    "E3 — Hover premium tarjetas",
+    "E4 — Hover botones",
+    "E5 — Zoom imágenes",
+    "E6 — Barra progreso scroll",
+    "E7 — Glass header (condicional)",
+    "E8 — Card bottom line",
+    "E9 — Input focus glow (condicional)",
+    "E10 — ::selection branded",
+    "E11 — Footer separador",
+    "E12 — Heading reveal",
+    "E13 — Link underline",
+    "E14 — WhatsApp flotante (condicional)",
+    "E15 — Global polish",
+    "FIX — overflow-x containment",
+    "FIX — CSS URLs absolutas",
+    "REDUCED-MOTION safety"
+  ],
+  "preservedContent": "HTML original 100% intacto",
+  "extractedData": {
+    "phone": "+34934146404",
+    "email": "info@clinicablasi.com",
+    "address": "C/ de Muntaner, 341, Sarrià-Sant Gervasi 08021 Barcelona",
+    "jsonLdFound": false
+  },
+  "performance": {
+    "lazyLoading": 8,
+    "webpConversion": 0,
+    "fontOptimization": "bunny-fonts",
+    "trackingRemoved": true
+  },
+  "seo": {
+    "metaTags": {
+      "openGraph": "added_missing",
+      "geoTags": "added"
+    },
+    "schemaOrg": {
+      "localBusiness": "MedicalBusiness",
+      "faqPage": "in_nosotros_page"
+    },
+    "content": {
+      "altTexts": "5 fixed"
+    }
+  }
+}
